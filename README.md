@@ -7,7 +7,7 @@ Neste projeto são realizados testes de integração com banco de dados em memó
 1. Editar as variáveis de ambiente indicando o Java JDK 17
 2. Clonar o projeto em sua máquina
 3. Importar a pasta do projeto no Visual Studio Code
-4. Dar Start na API conforme indicado neste README: https://github.com/larissa-cruz-sofist/api-spring-boot-consultas-medicas
+4. Dar Start na API conforme indicado neste README: https://github.com/larissa-cruz/api-spring-boot-consultas-medicas
 
 ### Project Structure
 * src/main: Arquivos Models e Utils do projeto.
